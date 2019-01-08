@@ -135,7 +135,7 @@ p {
     background-position: 0% 0%;
   }
   81% {
-    background-color: #4e5559;
+    background-color: #4e5559; 
   }
   90%, 100% {
     background-color: #ffffff;
